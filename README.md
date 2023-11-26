@@ -1,5 +1,6 @@
 # Notarize
-The solution to self-employed professionals
+
+The solution for self-employed professionals
 
 Notarize is a powerful storage tool designed for Spanish citizens, providing an efficient solution for managing and categorizing both deduced and non-deduced taxes.
 
@@ -30,6 +31,7 @@ To get started with Notarize, follow the installation instructions below.
 
 ### Installation
 
+```bash
 # Clone the repository
 git clone https://github.com/javsanesq/Notarize.git
 
